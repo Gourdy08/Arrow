@@ -1,2 +1,2 @@
 # Arrow
-Data base creator/reader/writer package
+Data base creator/reader/writer library
